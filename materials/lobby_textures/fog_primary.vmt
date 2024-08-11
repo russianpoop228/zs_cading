@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "lobby_textures\fog_primary"
+    "$surfaceprop" "metal"
+}

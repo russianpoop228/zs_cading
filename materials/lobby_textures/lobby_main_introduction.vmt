@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "lobby_textures\lobby_main_introduction"
+    "$surfaceprop" "metal"
+    "$translucent" "1"
+}

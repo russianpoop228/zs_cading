@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "lobby_textures\nickolp2"
+    "$surfaceprop" "metal"
+}

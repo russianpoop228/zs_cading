@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "work_zone_textures/black_cade_ban_texture"
+    "$surfaceprop" "glass"
+}

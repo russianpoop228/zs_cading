@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "lobby_textures\mr_beast2"
+    "$surfaceprop" "flesh"
+}
